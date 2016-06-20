@@ -1,0 +1,6 @@
+{
+    "uri": "https://github.com/openstack/rally",
+    "work_dir": "rally",
+    "script": "ls",
+    "args": "devstack"
+}
